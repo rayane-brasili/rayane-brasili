@@ -48,8 +48,6 @@
 
 ![Snake animation](https://github.com/rayane-brasili/rayane-brasili/blob/output/github-contribution-grid-snake.svg)
 
-*(PS: Se quiser, posso te ajudar a configurar o GitHub Actions pra essa animação aparecer automaticamente)*
-
 ---
 
 ### 📫 Onde me encontrar:
