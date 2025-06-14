@@ -55,7 +55,5 @@
 ### 📫 Onde me encontrar:
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin-aqui)
-- [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@seu-medium-aqui)
-
 ---
 
