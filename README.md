@@ -10,7 +10,7 @@
 
 - 🔎 Apaixonada por **Cloud**, **DevOps**, **Segurança da Informação** e **DevSecOps**
 - 🎯 Atualmente focada em aprender e criar projetos práticos nas áreas de:
-  - - **DevOps**
+  - **DevOps**
   - **Infraestrutura como Código**
   - **CI/CD**
   - **Cloud**, **AWS**, **Azure**
