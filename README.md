@@ -46,6 +46,6 @@
 
 ### 📫 Onde me encontrar:
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayane-brasili-257979207/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayane-brasili-257979207/)
 ---
 
