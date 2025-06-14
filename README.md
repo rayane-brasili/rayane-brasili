@@ -21,14 +21,14 @@
 
 ### 🛠️ Minhas Skills (em evolução 🚀)
 
-![Linux](https://progress-bar.dev/80/?title=Linux)
-![AWS](https://progress-bar.dev/70/?title=AWS)
-![Azure](https://progress-bar.dev/60/?title=Azure)
-![Terraform](https://progress-bar.dev/75/?title=Terraform)
-![Docker](https://progress-bar.dev/70/?title=Docker)
-![Kubernetes](https://progress-bar.dev/60/?title=Kubernetes)
-![CI/CD](https://progress-bar.dev/65/?title=CI/CD)
-![Security](https://progress-bar.dev/70/?title=Security)
+![Linux](https://img.shields.io/badge/Linux-80%25-green)
+![AWS](https://img.shields.io/badge/AWS-70%25-yellowgreen)
+![Azure](https://img.shields.io/badge/Azure-60%25-yellow)
+![Terraform](https://img.shields.io/badge/Terraform-75%25-lightgrey)
+![Docker](https://img.shields.io/badge/Docker-70%25-blue)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-60%25-blueviolet)
+![CI/CD](https://img.shields.io/badge/CI/CD-65%25-orange)
+![Security](https://img.shields.io/badge/Security-70%25-red)
 
 ---
 
