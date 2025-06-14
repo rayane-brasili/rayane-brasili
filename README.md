@@ -44,14 +44,8 @@
 
 ---
 
-### 🐍 Animação da Cobrinha de Commits:
-
-![Snake animation](https://github.com/rayane-brasili/rayane-brasili/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ### 📫 Onde me encontrar:
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin-aqui)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/rayane-brasili-257979207)
 ---
 
